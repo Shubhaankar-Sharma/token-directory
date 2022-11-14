@@ -7,7 +7,7 @@
   "timestamp": "2021-01-27T22:43:52.813Z",
   "tokens": [
     {
-      "chainId": 1,
+      "chainId": 1, lets test this out
       "address": "0xfaafdc07907ff5120a76b34b731b278c38d6043c",
       "name": "Enjin",
       "standard": "erc1155",
